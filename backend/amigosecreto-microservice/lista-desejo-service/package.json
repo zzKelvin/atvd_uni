@@ -1,0 +1,11 @@
+{
+  "name": "lista-desejo-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.1"
+  }
+}
